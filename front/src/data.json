@@ -1,0 +1,50 @@
+[
+    {
+        "id": "p1foc",
+        "title": "Booki",
+		"undertitle": "Intégration d'une maquette graphique avec HTML5 et CSS3.",
+		"categorie": "Projet de la formation OpenClassroom",
+		"cover": "/images/cover_booki.png",
+		"description": "L'entreprise souhaitait développer un site qui permettrait aux utilisateurs de trouver des hébergements et des activités dans la ville de leur choix."
+    },
+    {
+        "id": "p2foc",
+        "title": "Ohmyfood",
+		"undertitle": "Dynamiser une page web avec des animations CSS",
+		"categorie": "Projet de la formation OpenClassroom",
+		"cover": "/images/cover_ohmyfood.png",
+		"description": "Un site 'mobile-first' qui répertorie les menus de restaurants gastronomiques, où les clients pourront composer leur repas pour que les plats soient prêts à leur arrivée."
+    },
+    {
+        "id": "p3foc",
+        "title": "Ohmyfood",
+		"undertitle": "Optimisez un site web existant",
+		"categorie": "Projet de la formation OpenClassroom",
+		"cover": "/images/cover_panthere.png",
+		"description": "Le site apparaissait en seconde page sur les moteurs de recherche, analyse de l'état actuel de SEO et amélioration à court terme"
+    },
+	{
+        "id": "p4foc",
+        "title": "Kanap",
+		"undertitle": "Construisez un site e-commerce en JavaScript",
+		"categorie": "Projet de la formation OpenClassroom",
+		"cover": "/images/cover_kanap.png",
+		"description": "Développement d'un site pour vendre les produits sur internet, intégrer dynamiquement les éléments de l'API (Accueil/Produit/Panier/Confirmation de commande)"
+    },
+	{
+        "id": "p5foc",
+        "title": "Piiquante",
+		"undertitle": "Construisez une API sécurisée pour une application d'avis gastronomiques",
+		"categorie": "Projet de la formation OpenClassroom",
+		"cover": "/images/cover_piiquante.png",
+		"description": "Développement d'une API pour se connecter et télécharger les sauces de les liker ou disliker. Site off live pour des raison économique et écologique"
+    },
+	{
+        "id": "p6foc",
+        "title": "Kasa",
+		"undertitle": "Créez une application web de location immobilière avec React",
+		"categorie": "Projet de la formation OpenClassroom",
+		"cover": "/images/cover_kasa.png",
+		"description": "Démarrer le projet React et développer l'ensemble de l'application, côté front travail avec un fichier json pour simuler la Base de donnée"
+    }
+]

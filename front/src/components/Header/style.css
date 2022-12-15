@@ -1,0 +1,55 @@
+.home .header {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background: rgba(50, 50, 50, 0.47); */
+    background: #323232;
+    z-index: 99;
+}
+
+.logo {
+    height: 100px;
+    margin-left: 50px;
+}
+.menu {
+    display: flex;
+    margin-right: 50px;
+}
+.link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 20px;
+    width: 95px;
+    height: 95px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #168AAD;
+    font-weight: 700;
+}
+.linkMiddle{
+    margin: 0 20px;
+}
+.link:hover {
+    transition: all 0.3s ease-in-out;
+    width: 120px;
+    background: #168AAD;
+    color: #FFF;
+}
+.link ion-icon {
+    width: 100%;
+    font-size: 32px;
+}
+.link p {
+    width: 100%;
+    text-align: center;
+    margin: 0px;
+}

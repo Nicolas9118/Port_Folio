@@ -1,0 +1,17 @@
+h1 {
+    margin-top: 50px;
+    font-size: 48px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 80%;
+    border-radius: 15px;
+    background: #323232;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.47);
+    padding: 50px 0px;
+    margin: 50px 0px;
+}
