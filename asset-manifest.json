@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.686cb7a8.css",
+    "main.js": "/static/js/main.48f4bf12.js",
+    "static/js/738.7dee4b09.chunk.js": "/static/js/738.7dee4b09.chunk.js",
+    "static/js/372.4d9168c3.chunk.js": "/static/js/372.4d9168c3.chunk.js",
+    "static/js/856.09610dba.chunk.js": "/static/js/856.09610dba.chunk.js",
+    "static/js/851.42c7dd9b.chunk.js": "/static/js/851.42c7dd9b.chunk.js",
+    "static/js/22.db29e684.chunk.js": "/static/js/22.db29e684.chunk.js",
+    "static/js/272.8b614300.chunk.js": "/static/js/272.8b614300.chunk.js",
+    "static/js/841.6c3ae011.chunk.js": "/static/js/841.6c3ae011.chunk.js",
+    "static/js/186.f0a5b4a4.chunk.js": "/static/js/186.f0a5b4a4.chunk.js",
+    "static/media/background_home.png": "/static/media/background_home.bbb10f4c6c98c53a5aa2.png",
+    "static/media/banner_gears.png": "/static/media/banner_gears.014b1b4e736c5754e569.png",
+    "static/media/illu.png": "/static/media/illu.020fcf22fb2be1aee87f.png",
+    "static/media/Logo_fond_blanc.png": "/static/media/Logo_fond_blanc.9601799222a69208702f.png",
+    "index.html": "/index.html",
+    "main.686cb7a8.css.map": "/static/css/main.686cb7a8.css.map",
+    "main.48f4bf12.js.map": "/static/js/main.48f4bf12.js.map",
+    "738.7dee4b09.chunk.js.map": "/static/js/738.7dee4b09.chunk.js.map",
+    "372.4d9168c3.chunk.js.map": "/static/js/372.4d9168c3.chunk.js.map",
+    "856.09610dba.chunk.js.map": "/static/js/856.09610dba.chunk.js.map",
+    "851.42c7dd9b.chunk.js.map": "/static/js/851.42c7dd9b.chunk.js.map",
+    "22.db29e684.chunk.js.map": "/static/js/22.db29e684.chunk.js.map",
+    "272.8b614300.chunk.js.map": "/static/js/272.8b614300.chunk.js.map",
+    "841.6c3ae011.chunk.js.map": "/static/js/841.6c3ae011.chunk.js.map",
+    "186.f0a5b4a4.chunk.js.map": "/static/js/186.f0a5b4a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.686cb7a8.css",
+    "static/js/main.48f4bf12.js"
+  ]
+}
