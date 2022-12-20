@@ -15,9 +15,8 @@ const SectionAbout = () => {
             <div className="container">
                 <div className="left">
                     <p className="presentation"> Mon parcours professionnel ne démarre pas en tant que développeur web. Mes expériences précédantes m'ont
-                        permis d'acquérir des compétences qui me permettent une bonne adaptabilité dans toute sorte de situation. Mon dipôme 
-                         BTS 
-                        informatique de 2012 et ma foramtion de développeur web en 2022 font de moi un développeur polyvalent à travers différents projets.
+                        permis d'acquérir des compétences qui me permettent une bonne adaptabilité dans toute sorte de situation. 
+                        Mon dipôme BTS informatique de 2012 et ma formation de développeur web en 2022 font de moi un développeur polyvalent à travers différents projets.
                         Méticuleux, organisé et curieux, j'aime travailler divers projets et les peaufiner jusqu'aux moindre petits détails. </p>
                     <img src={MaxiSoulignement} alt="" />
                     <Bouton buttonName="Télécharger CV" /> 
