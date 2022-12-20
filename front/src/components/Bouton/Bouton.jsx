@@ -1,21 +1,15 @@
 /*  ----  Import du css  ----  */
 import "./style.css";
-
 /*  ----  Import des lib  ----  */
 import React from "react";
-
-/*  ----  Import des images fixes  ----  */
-// import BackgroundHome from "../../assets/background_home.png";
-// import MaxiSoulignement from "../../assets/maxi_soulignement.png";
-// import Banner from "../../assets/banner_gears.png"
-// import Underline from "../../assets/soulignement.png"
-// import Illu from "../../assets/illu.png"
+/*  ----  Import du chemin du CV  ----  */
+import LinkCV from "../../assets/CV_Rolland_Nicolas_Integrateur_Web.pdf";
 
 const Button = ({buttonName}) => {
     return (
-        <button className="button">
+        <a className="button" href={LinkCV} target="blank">
             <p> {buttonName} </p>
-        </button>
+        </a>
     )
 }
 
