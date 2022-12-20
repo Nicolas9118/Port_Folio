@@ -15,7 +15,7 @@
 }
 
 .logo {
-    height: 100px;
+    height: 90px;
     margin-left: 50px;
 }
 .menu {
@@ -52,4 +52,17 @@
     width: 100%;
     text-align: center;
     margin: 0px;
+}
+
+@media screen and (max-width: 480px){
+    .logo {
+        height: 75px;
+        margin-left: 10px;
+    }
+    .link {
+        width: 50px;
+    }
+    .link p{
+        display: none;
+    }
 }
