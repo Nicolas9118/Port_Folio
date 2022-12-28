@@ -24,7 +24,8 @@
     position: absolute;
     top: -30%;
     height: 121px;
-    width: 306px;
+    max-width: 306px;
+    width: 90%;
     background: #FFF;
     box-shadow: 0px 5px 10px rgba(50, 50, 50);
     border-radius: 15px;
